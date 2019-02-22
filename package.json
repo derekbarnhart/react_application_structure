@@ -1,0 +1,35 @@
+{
+  "name": "restructure-spike",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "axios": "0.18.0",
+    "bootstrap": "4.3.0",
+    "react": "16.5.2",
+    "react-bootstrap": "1.0.0-beta.5",
+    "react-bootstrap-table-next": "2.1.1",
+    "react-dom": "16.5.2",
+    "react-redux": "6.0.0",
+    "react-router": "4.3.1",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "2.0.3",
+    "redux": "4.0.1"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "4.2.1",
+    "@types/react": "16.7.22",
+    "@types/react-dom": "16.0.11",
+    "@types/react-redux": "latest",
+    "@types/react-router": "4.4.4",
+    "@types/react-router-dom": "4.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
